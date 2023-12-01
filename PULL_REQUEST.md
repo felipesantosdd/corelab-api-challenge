@@ -1,4 +1,4 @@
-# WebTaskManager
+# WebTaskManager Pull Request
 
 ## Descrição
 
@@ -11,24 +11,26 @@ O WebTaskManager é uma aplicação de gerenciamento de tarefas com um front-end
 
 ## Como Usar
 
-Video de apresentação: https://youtu.be/QLmA2j1PIKI
+Video de apresentação: [Assista ao vídeo de apresentação](https://www.youtube.com/watch?v=fYUX1KS5F_c)
 
 ### Clonando os Repositórios
 
-Repositorio back-end: https://github.com/felipesantosdd/todo_list_back
+Cada Repositório tem seu próprio README, com instruções sobre o projeto.
 
-Repositorio Front-end: https://github.com/felipesantosdd/todo_list_front
+Repositório back-end: [todo_list_back](https://github.com/felipesantosdd/todo_list_back)
+
+Repositório Front-end: [todo_list_front](https://github.com/felipesantosdd/todo_list_front)
 
 Clone os três repositórios na mesma pasta:
 
 ```bash
-git clone https://github.com/felipesantosdd/todo-list.git
-cd todo-list
+git clone https://github.com/felipesantosdd/corelab-api-challenge.git
+cd corelab-api-challenge
 git clone https://github.com/felipesantosdd/todo_list_front.git
 git clone https://github.com/felipesantosdd/todo_list_back.git
 ```
 
-### Iniciando os **Contêineres**
+### Iniciando os Contêineres
 
 Navegue até a pasta 'docker':
 
@@ -50,4 +52,4 @@ Abra o seu navegador e acesse `http://localhost:3000` para começar a usar a apl
 
 ## Variáveis de Ambiente
 
-todas as variaveis de ambiente nescessarias ja stao setadas no .env dentro do repositorio backend.
+Todas as variáveis de ambiente necessárias já estão setadas no arquivo `.env` dentro do repositório backend.
